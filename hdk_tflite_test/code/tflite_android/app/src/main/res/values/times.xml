@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="times">
+        <item>1</item>
+        <item>2</item>
+        <item>50</item>
+        <item>100</item>
+    </string-array>
+</resources>
